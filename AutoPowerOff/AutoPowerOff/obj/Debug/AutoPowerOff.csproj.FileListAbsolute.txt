@@ -1,0 +1,10 @@
+C:\Users\_\Documents\GitHub\AutoPowerOff\AutoPowerOff\AutoPowerOff\bin\Debug\AutoPowerOff.exe.config
+C:\Users\_\Documents\GitHub\AutoPowerOff\AutoPowerOff\AutoPowerOff\bin\Debug\AutoPowerOff.exe
+C:\Users\_\Documents\GitHub\AutoPowerOff\AutoPowerOff\AutoPowerOff\bin\Debug\AutoPowerOff.pdb
+C:\Users\_\Documents\GitHub\AutoPowerOff\AutoPowerOff\AutoPowerOff\obj\Debug\AutoPowerOff.csprojAssemblyReference.cache
+C:\Users\_\Documents\GitHub\AutoPowerOff\AutoPowerOff\AutoPowerOff\obj\Debug\AutoPowerOff.Form1.resources
+C:\Users\_\Documents\GitHub\AutoPowerOff\AutoPowerOff\AutoPowerOff\obj\Debug\AutoPowerOff.Properties.Resources.resources
+C:\Users\_\Documents\GitHub\AutoPowerOff\AutoPowerOff\AutoPowerOff\obj\Debug\AutoPowerOff.csproj.GenerateResource.cache
+C:\Users\_\Documents\GitHub\AutoPowerOff\AutoPowerOff\AutoPowerOff\obj\Debug\AutoPowerOff.csproj.CoreCompileInputs.cache
+C:\Users\_\Documents\GitHub\AutoPowerOff\AutoPowerOff\AutoPowerOff\obj\Debug\AutoPowerOff.exe
+C:\Users\_\Documents\GitHub\AutoPowerOff\AutoPowerOff\AutoPowerOff\obj\Debug\AutoPowerOff.pdb
